@@ -35,6 +35,7 @@ public void LoginErrorValidation() throws Exception
 		ProductCatalog productCatalog = loginPage.login("swapnilyjoshi@gmail.com","Edenred2018**");
 		loginPage.getErrorMessage();
 		Assert.assertEquals(loginPage.getErrorMessage(),"Incorrect email or password.");
+		System.out.println("Git changes");
         
 	}
 	
