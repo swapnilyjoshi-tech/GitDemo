@@ -2,23 +2,20 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-13T14:17:52 IST" name="Default suite" finished-at="2026-04-13T14:18:12 IST" duration-ms="19417">
+  <suite started-at="2026-04-14T15:52:13 IST" name="Default suite" finished-at="2026-04-14T15:52:21 IST" duration-ms="7612">
     <groups>
-      <group name="ErrorHandling">
-        <method signature="ErrorValidationTest.ProductErrorValidation()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@441772e]" name="ProductErrorValidation" class="rahulshettyacademy.ErrorValidationTest"/>
-      </group> <!-- ErrorHandling -->
     </groups>
-    <test started-at="2026-04-13T14:17:52 IST" name="Default test" finished-at="2026-04-13T14:18:12 IST" duration-ms="19417">
+    <test started-at="2026-04-14T15:52:13 IST" name="Default test" finished-at="2026-04-14T15:52:21 IST" duration-ms="7612">
       <class name="rahulshettyacademy.ErrorValidationTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@441772e]" started-at="2026-04-13T14:17:52 IST" name="launchApplication" finished-at="2026-04-13T14:17:57 IST" duration-ms="4636" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@815b41f]" started-at="2026-04-14T15:52:13 IST" name="launchApplication" finished-at="2026-04-14T15:52:19 IST" duration-ms="6426" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="ProductErrorValidation()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@441772e]" started-at="2026-04-13T14:17:57 IST" name="ProductErrorValidation" finished-at="2026-04-13T14:18:11 IST" duration-ms="14287" status="PASS">
+        <test-method signature="LoginErrorValidation()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@815b41f]" started-at="2026-04-14T15:52:19 IST" name="LoginErrorValidation" finished-at="2026-04-14T15:52:20 IST" duration-ms="987" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ProductErrorValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@441772e]" started-at="2026-04-13T14:18:11 IST" name="tearDown" finished-at="2026-04-13T14:18:12 IST" duration-ms="421" status="PASS">
+        </test-method> <!-- LoginErrorValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.ErrorValidationTest@815b41f]" started-at="2026-04-14T15:52:20 IST" name="tearDown" finished-at="2026-04-14T15:52:21 IST" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
