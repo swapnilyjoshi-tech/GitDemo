@@ -37,17 +37,9 @@ public void LoginErrorValidation() throws Exception
 		Assert.assertEquals(loginPage.getErrorMessage(),"Incorrect email or password.");
 		System.out.println("dev branch");
 		
-		System.out.println("dev branch");
+		System.out.println("comming from git stuff to dev branch");
 		
-		System.out.println("dev branch");
 		
-		System.out.println("dev branch");
-		
-		System.out.println("dev branch");
-		
-		System.out.println("dev branch");
-		
-		System.out.println("dev branch");
 		
 	}
 	
